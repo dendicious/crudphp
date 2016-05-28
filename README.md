@@ -16,7 +16,7 @@ leader yang kirim url repositorinya
 ------------------------------------------------------------------------------
 ### ng-pull (update cloud to local) ###
 
- git pull [nama remote repositori] master
+git pull [nama remote repositori] master
 
 ------------------------------------------------------------------------------
 ### ng-push (update local to cloud) ### 
