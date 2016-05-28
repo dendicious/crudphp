@@ -14,14 +14,14 @@ pindah pathnya ke folder yang baru di clone
 leader yang kirim url repositorinya
 
 ------------------------------------------------------------------------------
-### pull : update cloud repository ke lokal repositori  ###
+### Update cloud repository ke lokal repositori  ###
 
-Aktifitas ini dilakuin kalo ada kontributor yang baru nge-push
+Aktifitas ini harus dilakuin kalo ada kontributor yang baru nge-push atau sebelum mau commit
 
 	git pull [nama remote repositori] master
 
 ------------------------------------------------------------------------------
-### push : update local to cloud repository (update local to cloud) ### 
+### Update local repository ke cloud repository (update local to cloud) ### 
 
 	git add *
 
@@ -30,7 +30,8 @@ Aktifitas ini dilakuin kalo ada kontributor yang baru nge-push
 	git push [namarepositori] master
 
 -------------------------------------------------------------------------------
-### nambah file ### 
+
+### Tambah file ### 
 Bikin file baru bisa dilakuin di explorer
 
 	git add *
@@ -38,7 +39,7 @@ Bikin file baru bisa dilakuin di explorer
 	git commit -m "[komentar Wajib abis ngapain]"
 
 	git push [namarepositori] master
-
+-------------------------------------------------------------------------------
 
 ### Hapus file ###
 
@@ -49,8 +50,9 @@ Ngehapus file harus dilakuin pake git bash / git gui
 	git commit -m "[komentar Wajib abis ngapain]"
 
 	git push [namarepositori] master
+-------------------------------------------------------------------------------
 
-### rename file ### 
+### rename file ###
 
 Ngehapus file harus dilakuin pake git bash / git gui
 
@@ -60,14 +62,23 @@ Ngehapus file harus dilakuin pake git bash / git gui
 
 	git push [namarepositori] master
 
+-------------------------------------------------------------------------------
 
-### pindah file ke folder ###
+### Pindah file ke folder ###
 
-### nambah folder ###
+-------------------------------------------------------------------------------
 
-### hapus folder ###
+### Nambah folder ###
 
-### pindah folder ### 
+-------------------------------------------------------------------------------
+
+### Hapus folder ###
+
+-------------------------------------------------------------------------------
+
+### Pindah folder ### 
+
+-------------------------------------------------------------------------------
 
 # README #
 
