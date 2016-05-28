@@ -30,6 +30,18 @@ leader yang kirim url repositorinya
 -------------------------------------------------------------------------------
 ### nambah file ### 
 
+### hapus file ###
+
+### rename file ### 
+
+### pindah file ke folder ###
+
+### nambah folder ###
+
+### hapus folder ###
+
+### pindah folder ### 
+
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
