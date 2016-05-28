@@ -1,25 +1,27 @@
-##git tutor##
+#Git Tutor#
 
-###Beginer###
-//ng clone dulu dari repository yang udah team leader buat di htdoc
-//copas dari clone
+### ng-clone ###
+ng clone dulu dari repository yang udah team leader buat di htdoc
+copas dari clone
 
 	git clone https://[Username@]bitbucket.org/papperplanstudio/tes_crud.git
 
-//pindah pathnya ke folder yang baru di clone
+pindah pathnya ke folder yang baru di clone
 
-	git init 			
+	git init 	
 
 	git remote add [namarepositori] [url repositori]
-//leader yang kirim url repositorinya
+leader yang kirim url repositorinya
 
 ------------------------------------------------------------------------------
-//ng-pull (update cloud to local)
+### pull : update cloud repository ke lokal repositori  ###
 
-	git pull [namarepositori] master
+Aktifitas ini dilakuin kalo ada kontributor yang baru nge-push
+
+	git pull [nama remote repositori] master
 
 ------------------------------------------------------------------------------
-//ng-push (update local to cloud)
+### push : update local to cloud repository (update local to cloud) ### 
 
 	git add *
 
@@ -28,6 +30,39 @@
 	git push [namarepositori] master
 
 -------------------------------------------------------------------------------
+### nambah file ### 
+
+	git add *
+
+	git commit -m "[komentar Wajib abis ngapain]"
+
+	git push [namarepositori] master
+
+
+### Hapus file ###
+
+	git rm [nama file]
+
+	git commit -m "[komentar Wajib abis ngapain]"
+
+	git push [namarepositori] master
+
+### rename file ### 
+
+	git mv [nama file lama] [nama file baru]
+
+	git commit -m "[komentar Wajib abis ngapain]"
+
+	git push [namarepositori] master
+
+
+### pindah file ke folder ###
+
+### nambah folder ###
+
+### hapus folder ###
+
+### pindah folder ### 
 
 # README #
 
@@ -58,3 +93,5 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+
+dendi was here
