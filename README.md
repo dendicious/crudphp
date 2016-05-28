@@ -31,6 +31,7 @@ Aktifitas ini dilakuin kalo ada kontributor yang baru nge-push
 
 -------------------------------------------------------------------------------
 ### nambah file ### 
+Bikin file baru bisa dilakuin di explorer
 
 	git add *
 
@@ -41,6 +42,8 @@ Aktifitas ini dilakuin kalo ada kontributor yang baru nge-push
 
 ### Hapus file ###
 
+Ngehapus file harus dilakuin pake git bash / git gui
+
 	git rm [nama file]
 
 	git commit -m "[komentar Wajib abis ngapain]"
@@ -48,6 +51,8 @@ Aktifitas ini dilakuin kalo ada kontributor yang baru nge-push
 	git push [namarepositori] master
 
 ### rename file ### 
+
+Ngehapus file harus dilakuin pake git bash / git gui
 
 	git mv [nama file lama] [nama file baru]
 
