@@ -21,7 +21,7 @@ Aktifitas ini harus dilakuin kalo ada kontributor yang baru nge-push atau sebelu
 	git pull [nama remote repositori] master
 
 ------------------------------------------------------------------------------
-### Update local repository ke cloud repository (update local to cloud) ### 
+### Upload local repository ke cloud repository ### 
 
 	git add *
 
