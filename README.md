@@ -64,6 +64,19 @@ Ngehapus file harus dilakuin pake git bash / git gui
 
 -------------------------------------------------------------------------------
 
+### store password in cache ###
+
+$ git config credential.helper store
+$ git push http://example.com/repo.git
+Username: <type your username>
+Password: <type your password>
+
+[several days later]
+$ git push http://example.com/repo.git
+[your credentials are used automatically]
+
+-------------------------------------------------------------------------------
+
 ### Pindah file ke folder ###
 
 -------------------------------------------------------------------------------
