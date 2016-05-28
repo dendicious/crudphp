@@ -1,4 +1,4 @@
-##git tutor##
+#Git Tutor#
 
 ### ng-clone ###
 //ng clone dulu dari repository yang udah team leader buat di htdoc
