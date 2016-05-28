@@ -4,7 +4,7 @@
 //ng clone dulu dari repository yang udah team leader buat di htdoc
 //copas dari clone
 
-	git clone https://[Username@]bitbucket.org/papperplanstudio/tes_crud.git
+ git clone https://[Username@]bitbucket.org/papperplanstudio/tes_crud.git
 
 //pindah pathnya ke folder yang baru di clone
 
@@ -14,9 +14,9 @@
 leader yang kirim url repositorinya
 
 ------------------------------------------------------------------------------
-### ng-pull (update cloud to local) ### 
+### ng-pull (update cloud to local) ###
 
-	git pull [nama remote repositori] master
+ git pull [nama remote repositori] master
 
 ------------------------------------------------------------------------------
 ### ng-push (update local to cloud) ### 
