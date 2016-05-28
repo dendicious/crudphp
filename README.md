@@ -30,7 +30,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ##git tutor##
 
-#Beginer#
+###Beginer###
 //ng clone dulu dari repository yang udah team leader buat di htdoc
 //copas dari clone
 
