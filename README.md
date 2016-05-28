@@ -1,6 +1,6 @@
 ##git tutor##
 
-###Beginer###
+### ngeclone ###
 //ng clone dulu dari repository yang udah team leader buat di htdoc
 //copas dari clone
 
@@ -11,15 +11,15 @@
 	git init 			
 
 	git remote add [namarepositori] [url repositori]
-//leader yang kirim url repositorinya
+leader yang kirim url repositorinya
 
 ------------------------------------------------------------------------------
-//ng-pull (update cloud to local)
+### ng-pull (update cloud to local) ### 
 
 	git pull [namarepositori] master
 
 ------------------------------------------------------------------------------
-//ng-push (update local to cloud)
+### ng-push (update local to cloud) ### 
 
 	git add *
 
@@ -28,6 +28,7 @@
 	git push [namarepositori] master
 
 -------------------------------------------------------------------------------
+### nambah file ### 
 
 # README #
 
