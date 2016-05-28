@@ -65,6 +65,7 @@ Ngehapus file harus dilakuin pake git bash / git gui
 -------------------------------------------------------------------------------
 
 ### store password in cache ###
+command di bawah ini biar pas mau pull, puss dll ga dipinta password terus
 
 	git config credential.helper store
 	git push http://example.com/repo.git
