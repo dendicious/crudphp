@@ -34,7 +34,7 @@ This README would normally document whatever steps are necessary to get your app
 //ng clone dulu dari repository yang udah team leader buat di htdoc
 //copas dari clone
 
-	git clone https://rafdijaidi@bitbucket.org/papperplanstudio/tes_crud.git
+	git clone https://[Username@]bitbucket.org/papperplanstudio/tes_crud.git
 
 //pindah pathnya ke folder yang baru di clone
 
