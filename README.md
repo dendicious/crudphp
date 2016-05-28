@@ -27,3 +27,34 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+
+##git turor##
+
+#Beginer#
+//ng clone dulu dari repository yang udah team leader buat di htdoc
+//copas dari clone
+
+	git clone https://rafdijaidi@bitbucket.org/papperplanstudio/tes_crud.git
+
+//pindah pathnya ke folder yang baru di clone
+
+	git init 			
+
+	git remote add [namarepositori] [url repositori]
+//leader yang kirim url repositorinya
+
+------------------------------------------------------------------------------
+//ng-pull (update cloud to local)
+
+	git pull [namarepositori] master
+
+------------------------------------------------------------------------------
+//ng-push (update local to cloud)
+
+	git add *
+
+	git commit -m "[komentar Wajib abis ngapain]"
+
+	git push [namarepositori] master
+
+-------------------------------------------------------------------------------
